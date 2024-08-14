@@ -41,12 +41,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    ![Ader's GitHub stats](https://github-readme-stats.vercel.app/api?username=AderHenrique&show_icons=true&hide_title=true&hide_border=true&count_private=true)
-  <br/>
-  <br/>
-  <br/>
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+![Ader's GitHub stats](https://github-readme-stats.vercel.app/api?username=AderHenrique&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+<br/><br/><br/>
 </div>
 
 <hr/>
