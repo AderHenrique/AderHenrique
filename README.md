@@ -38,13 +38,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AderHenrique&show_icons=true&theme=transparent)
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
