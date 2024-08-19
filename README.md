@@ -11,10 +11,16 @@
 <div align="center">
   🔎 I'm currently seeking an internship opportunity in mobile development. I'm passionate about building mobile applications and eager to gain hands-on experience in this field.
 </div>
+
 <br/>
+
 <div align="center">
   🌱 I’m currently learning React Native development, including navigation, state management, API integration, and app publishing.
+</div>
 
+<br/>
+
+<div align="center">
   ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div>
  
