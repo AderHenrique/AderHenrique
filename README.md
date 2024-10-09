@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-  🔎 I'm currently seeking an internship opportunity in mobile development. I'm passionate about building mobile applications and eager to gain hands-on experience in this field.
+  🔎I'm actively seeking an internship in mobile development or Front-End. I'm passionate about building mobile applications and excited to apply and grow my skills through hands-on experience in the field.
 </div>
 
 <br/>
 
 <div align="center">
-  🌱 I’m currently learning React Native development, including navigation, state management, API integration, and app publishing.
+  🌱I'm currently focused on enhancing my Front-End skills and completing my Back-End course in Python. I also enjoy developing apps with React Native from time to time.
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/ader-henrique/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AderHenrique" target="_blank">
+  <a href="https://portfolio-ader-henrique.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
